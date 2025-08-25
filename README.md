@@ -1,0 +1,2 @@
+- CSS Theme based on rose-pine-moon
+- Run with `marp Presentation.md --theme theme.css -w -p --html`
